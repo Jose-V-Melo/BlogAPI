@@ -4,9 +4,9 @@ from sqlalchemy.orm import sessionmaker
 import cloudinary
 
 cloudinary.config(
-    cloud_name="pizzarialuigi-ddns-net",
-    api_key="212123817192666",
-    api_secret="h90KfxTzbvbIusX16Uk9XsojKpQ"
+    cloud_name="hqszyljzc",
+    api_key="795958551823646",
+    api_secret="o0sEWQ1Z3DVoShb3edSdvrS7sXs"
 )
 
 # SQLALCHEMY_DATABASE_URL = "sqlite:///./sql_app.db"
